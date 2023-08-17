@@ -52,3 +52,25 @@ header {
   text-align: center;
   width: 100%;
 }
+
+.tea-area {
+  padding-top: 5rem;
+  width: 1000px;
+  margin: 0 auto;
+}
+h2 {
+  padding-bottom: 1rem;
+}
+.image {
+  height: 200px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+.tea-images {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+
+  margin-left: 250px;
+  margin-top: 25px;
+}
