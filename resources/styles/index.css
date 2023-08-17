@@ -38,7 +38,7 @@ header {
 .background {
   height: 700px;
   width: 1200px;
-  background-image: url(resources/images/img-mission-background\ img\ 6.webp);
+  background-image: url(/resources/images/img-mission-background\ img\ 6.webp);
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -70,20 +70,17 @@ h2 {
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
-
-  margin-left: 250px;
-  margin-top: 25px;
+  margin-top: 2rem;
 }
 .locations {
+  padding-top: 2rem;
   height: 500px;
   width: 1200px;
-  background-image: url(resources/images/img-locations-background\ img\ 5.webp);
+  background-image: url(/resources/images/img-locations-background\ img\ 5.webp);
   background-repeat: no-repeat;
   background-size: cover;
-  /* margin-left: 200px;
-  margin-right: 250px;
-  margin-top: 2rem; */
   margin: 0 auto;
+  margin-top: 3rem;
 }
 .location-areas {
   display: flex;
